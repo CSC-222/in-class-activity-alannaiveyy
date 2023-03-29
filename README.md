@@ -1,4 +1,4 @@
-# CSC_222_Program Frank's first project
+# CSC_222_Program Frank Red Hot's first project
 
 The purpose of this program is to provide a test environment for source control capabilities.  
 This project can be opened using JetBrains IntelliJ
